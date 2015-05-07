@@ -1,0 +1,1 @@
+Ummidia is a trapdoor toolkit. Its primary focus is to create and monitor seemingly sensitive files. It accomplishes this task by listening to Windows process handles in order to detect file accesses. Once a malicious file access has been identified Ummidia will log timestamp, source process name, process PID, process user, and current network connections.
